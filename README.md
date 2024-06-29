@@ -38,7 +38,5 @@ This project aims to analyze BreadcrumbsRestaurant sales data using Apache Spark
 3. **Clone the Repository:**
    ```bash
    git clone https://github.com/Abdelrhman2022/Restaurant-Sales-Analysis-Using-Databricks-and-Apache-Spark
-
-
-
+   
 © Copyright Abdelrahman Ragab Nady
