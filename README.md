@@ -1,7 +1,7 @@
 # Restaurant Sales Analysis Using Databricks and Apache Spark
 
 ## Overview
-This project aims to analyze e-commerce sales data using Apache Spark within Databricks, integrated with Amazon S3. The primary goal is to derive insights into sales trends, customer behavior, and product performance, facilitating data-driven decision-making for the e-commerce platform.
+This project aims to analyze BreadcrumbsRestaurant sales data using Apache Spark within Databricks, integrated with Amazon S3. The primary goal is to derive insights into sales trends, customer behavior, and product performance, facilitating data-driven decision-making for the e-commerce platform.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -38,3 +38,7 @@ This project aims to analyze e-commerce sales data using Apache Spark within Dat
 3. **Clone the Repository:**
    ```bash
    git clone https://github.com/Abdelrhman2022/Restaurant-Sales-Analysis-Using-Databricks-and-Apache-Spark
+
+
+
+© Copyright Abdelrahman Ragab Nady
