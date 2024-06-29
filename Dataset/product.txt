@@ -1,0 +1,8 @@
+1, Margherita, 100,
+2, Pepperoni, 150,
+3, Cheese Pizza, 120,
+4, Meat Lover’s, 110,
+5, Veggie Delight, 80,
+6, Hawaiian, 180
+
+
