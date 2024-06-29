@@ -9,11 +9,6 @@ This project aims to analyze e-commerce sales data using Apache Spark within Dat
 - [Data Source](#data-source)
 - [Architecture](#architecture)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Data Integration:** Import product and order data from S3 into Databricks.
@@ -42,4 +37,4 @@ This project aims to analyze e-commerce sales data using Apache Spark within Dat
 
 3. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/ecommerce-sales-analysis.git
+   git clone https://github.com/Abdelrhman2022/Restaurant-Sales-Analysis-Using-Databricks-and-Apache-Spark
